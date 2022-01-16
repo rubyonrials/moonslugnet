@@ -3,3 +3,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+h1 {
+  margin: 20px 10px;
+  color: #c7c4bf;
+}
